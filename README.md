@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @MX19053
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @MX19053 
+
 - 🌱 I’m currently learning ...
+
+- nix
+
+
+
+
+
+
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
